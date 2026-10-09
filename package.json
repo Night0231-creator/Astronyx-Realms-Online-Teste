@@ -1,0 +1,11 @@
+{
+  "name": "astronyx-realms-online-teste-bootstrap",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
