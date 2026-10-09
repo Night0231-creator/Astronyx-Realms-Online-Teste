@@ -1,9 +1,9 @@
 {
   "name": "astronyx-realms-online-teste-bootstrap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
-    "start": "node server.js"
+    "start": "node unpack-cloud-test.js && node server.js"
   },
   "engines": {
     "node": ">=20"
